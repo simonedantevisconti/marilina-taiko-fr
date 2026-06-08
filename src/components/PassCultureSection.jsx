@@ -66,7 +66,7 @@ const PassCultureSection = () => {
               <div className="image-decoration"></div>
 
               <img
-                src="/mari.png"
+                src="/drum.png"
                 alt="Marilina pendant une activité de taïko"
                 className="section-image"
               />
