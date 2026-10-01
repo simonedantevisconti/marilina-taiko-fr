@@ -11,6 +11,8 @@ const SELECTORS = [
   ".social-card",
   ".whatsapp-cta",
   ".social-icons",
+  ".legal-section",
+  ".not-found-page .legal-container",
 ];
 
 const ScrollReveal = () => {
