@@ -57,12 +57,12 @@ const SocialSection = () => {
               </div>
             </a>
 
-            <a href="mailto:info@taikomama.com" className="social-card">
+            <a href="mailto:percussionstories@gmail.com" className="social-card">
               <i className="fa-solid fa-envelope"></i>
 
               <div>
                 <strong>E-mail</strong>
-                <span>info@taikomama.com</span>
+                <span>percussionstories@gmail.com</span>
               </div>
             </a>
           </div>

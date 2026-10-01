@@ -52,7 +52,7 @@ const PassCultureSection = () => {
               </p>
 
               <a
-                href="mailto:info@taikomama.com?subject=Intervention Pass Culture"
+                href="mailto:percussionstories@gmail.com?subject=Intervention Pass Culture"
                 className="section-button"
               >
                 Organiser une intervention

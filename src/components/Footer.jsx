@@ -40,7 +40,7 @@ const Footer = () => {
               <i className="fa-brands fa-youtube"></i>
             </a>
 
-            <a href="mailto:info@taikomama.com" aria-label="E-mail">
+            <a href="mailto:percussionstories@gmail.com" aria-label="E-mail">
               <i className="fa-solid fa-envelope"></i>
             </a>
           </div>
