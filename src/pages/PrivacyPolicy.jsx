@@ -2,7 +2,7 @@ import "../styles/legal.css";
 
 const PrivacyPolicy = () => {
   return (
-    <main className="legal-page">
+    <section className="legal-page">
       <div className="container legal-container">
         <h1 className="legal-title">Politique de confidentialité</h1>
 
@@ -90,7 +90,7 @@ const PrivacyPolicy = () => {
           </p>
         </section>
       </div>
-    </main>
+    </section>
   );
 };
 
