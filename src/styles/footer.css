@@ -92,3 +92,42 @@
     justify-content: center;
   }
 }
+
+
+/* LEGAL LINKS */
+
+.footer-legal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.footer-legal a {
+  color: rgba(255, 255, 255, 0.58);
+  font-size: 0.82rem;
+  text-decoration: none;
+  transition:
+    color 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.footer-legal a:hover {
+  color: #fff;
+}
+
+.footer-legal span {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 0.78rem;
+}
+
+@media (max-width: 575px) {
+  .footer-legal {
+    gap: 8px;
+  }
+
+  .footer-legal a {
+    font-size: 0.76rem;
+  }
+}
