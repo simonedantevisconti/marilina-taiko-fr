@@ -1,0 +1,46 @@
+/* SCROLL REVEAL */
+
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition:
+    opacity 0.7s ease var(--reveal-delay, 0ms),
+    transform 0.7s ease var(--reveal-delay, 0ms);
+  will-change: opacity, transform;
+}
+
+.reveal.reveal-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hero-content.reveal {
+  transform: translateY(18px);
+}
+
+.section-image-wrapper.reveal {
+  transform: translateY(30px) scale(0.985);
+}
+
+.section-image-wrapper.reveal.reveal-visible {
+  transform: translateY(0) scale(1);
+}
+
+.memory-card.reveal,
+.social-card.reveal {
+  transform: translateY(24px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal.reveal-visible,
+  .hero-content.reveal,
+  .section-image-wrapper.reveal,
+  .section-image-wrapper.reveal.reveal-visible,
+  .memory-card.reveal,
+  .social-card.reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
