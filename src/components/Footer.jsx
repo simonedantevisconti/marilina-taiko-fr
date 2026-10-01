@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "../styles/footer.css";
 
 const Footer = () => {
@@ -56,6 +57,16 @@ const Footer = () => {
               © {new Date().getFullYear()} Marilina Taiko — Tous droits
               réservés.
             </small>
+
+            <div className="footer-legal mt-2">
+              <Link to="/politique-confidentialite">
+                Politique de confidentialité
+              </Link>
+
+              <span aria-hidden="true">·</span>
+
+              <Link to="/politique-cookies">Politique des cookies</Link>
+            </div>
           </div>
         </div>
       </div>
