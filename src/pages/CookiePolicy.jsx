@@ -2,7 +2,7 @@ import "../styles/legal.css";
 
 const CookiePolicy = () => {
   return (
-    <main className="legal-page">
+    <section className="legal-page">
       <div className="container legal-container">
         <h1 className="legal-title">Politique relative aux cookies</h1>
 
@@ -69,7 +69,7 @@ const CookiePolicy = () => {
           </p>
         </section>
       </div>
-    </main>
+    </section>
   );
 };
 
