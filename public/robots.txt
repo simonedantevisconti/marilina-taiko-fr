@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuodominio.fr/sitemap.xml
+Sitemap: https://taiko-montpellier.fr/sitemap.xml
