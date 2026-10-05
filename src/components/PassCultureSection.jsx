@@ -11,44 +11,35 @@ const PassCultureSection = () => {
               <div className="title-line"></div>
 
               <p>
-                Je m'appelle <strong>Marilina Karpan</strong>. Experte de
-                littérature japonaise et ancienne traductrice japonais-italien,
-                j'ai créé en 2012 l'association TaikoMama à Montpellier.
+                Je propose des actions culturelles originales à destination des
+                lycées dans le cadre du Pass Culture Collectif. Mes
+                interventions vont bien au-delà de la simple découverte d'un
+                instrument. Elles invitent les élèves à expérimenter le rythme à
+                travers le corps, l'écoute, la coordination et la dynamique de
+                groupe. Selon les objectifs pédagogiques de l'établissement,
+                plusieurs formats sont possibles:
               </p>
 
               <p>
-                Huit ans de karaté pendant mon enfance me sont encore utiles
-                aujourd'hui pour la posture et la gestuelle du taïko.
-                Musicalement, je remercie les cours de piano, commencés à l'âge
-                de 4 ans, ainsi que ceux de djembé, darbouka, danse africaine,
-                afro-haïtienne, afro-contemporaine, danse indienne odissi,
-                tango, percussion corporelle et butoh.
+                Conférences et rencontres autour du taiko, de la culture
+                japonaise contemporaine et du parcours d'une musicienne
+                européenne formée au Japon.
               </p>
 
               <p>
-                Je fais de la recherche sur l’importance de la pratique musicale
-                et de la motricité par rapport au développement cognitif et
-                émotionnel. J'aime beaucoup travailler avec les jeunes et je
-                suis heureuse de pouvoir intervenir dans les collèges et lycées
-                grâce au Pass Culture.
+                Ateliers de jeux rythmiques favorisant la concentration,
+                l'attention, la mémoire et la coopération au sein du groupe.
               </p>
 
               <p>
-                J'ai appris le taïko en Italie, en Allemagne, en Écosse et au
-                Japon, avec Rita Superbi à Rome, Ljiljana Bulic à Francfort,
-                Mugenkyo Taiko Drummers à Édimbourg et Gocoo à Tokyo.
+                Initiation au taiko, permettant aux participants de découvrir
+                les techniques de base du tambour japonais et le plaisir de
+                jouer ensemble.
               </p>
 
               <p>
-                Mes groupes de taïko préférés sont les Taiko Bastards de
-                Hambourg et Taiko Life de Nitay Zelniker. Mes morceaux préférés
-                sont <em>Mozamjam</em> de Martin Doyle et <em>Steampunk'd</em>{" "}
-                de Rannoch Purcell.
-              </p>
-
-              <p>
-                Mon style est un taïko européen, jeune, frais et ouvert à tout
-                type de collaboration artistique, du didgeridoo au storytelling.
+                Découverte de la chorégraphie du taiko, discipline qui associe
+                mouvement, énergie, présence scénique et expression musicale.
               </p>
 
               <a
