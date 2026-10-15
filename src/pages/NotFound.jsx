@@ -12,7 +12,7 @@ const NotFound = () => {
         <p className="not-found-text">
           Cette page n'existe pas ou a été déplacée.
           <br />
-          Revenez à l'accueil pour continuer à découvrir Marilina Taiko.
+          Revenez à l'accueil pour continuer à découvrir Taiko Montpellier.
         </p>
 
         <Link to="/" className="legal-button">
