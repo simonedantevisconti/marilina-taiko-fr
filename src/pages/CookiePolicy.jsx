@@ -19,7 +19,7 @@ const CookiePolicy = () => {
         <section className="legal-section">
           <h2>2. Cookies utilisés par le site</h2>
           <p>
-            À ce jour, Marilina Taiko n'utilise pas directement de cookies
+            À ce jour, Taiko Montpellier n'utilise pas directement de cookies
             publicitaires, de profilage ou d'outil d'analyse d'audience configuré
             par le site.
           </p>
