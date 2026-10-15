@@ -39,7 +39,7 @@ const SocialSection = () => {
 
               <div>
                 <strong>YouTube</strong>
-                <span>Marilina Taiko</span>
+                <span>Taiko Montpellier</span>
               </div>
             </a>
 
