@@ -27,7 +27,7 @@ const Header = () => {
             className="navbar-brand"
             href="#accueil"
             onClick={closeMenu}
-            aria-label="Marilina Taiko - Accueil"
+            aria-label="Taiko Montpellier - Accueil"
           >
             <img
               src="/logo.png"
