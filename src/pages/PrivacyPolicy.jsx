@@ -11,7 +11,7 @@ const PrivacyPolicy = () => {
         <section className="legal-section">
           <h2>1. Responsable du site</h2>
           <p>
-            Le site Marilina Taiko présente des activités, spectacles, ateliers
+            Le site Taiko Montpellier présente des activités, spectacles, ateliers
             et projets liés au taïko.
           </p>
           <p>
@@ -29,7 +29,7 @@ const PrivacyPolicy = () => {
             Le site ne comporte actuellement pas de formulaire de création de
             compte ni de système d'analyse d'audience intégré. Des données
             peuvent toutefois être transmises volontairement lorsque vous
-            contactez Marilina Taiko par e-mail, WhatsApp ou via les réseaux
+            contactez Taiko Montpellier par e-mail, WhatsApp ou via les réseaux
             sociaux.
           </p>
         </section>
