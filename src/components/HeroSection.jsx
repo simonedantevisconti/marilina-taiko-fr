@@ -14,8 +14,8 @@ const HeroSection = () => {
           <p className="hero-eyebrow">Tambour japonais</p>
 
           <h1>
-            Marilina
-            <span>et son taiko</span>
+            M Karpan
+            <span>Intervenante de tambour japonais</span>
           </h1>
 
           <div className="hero-description">
