@@ -49,12 +49,12 @@ const Footer = () => {
           <div className="col-12 diritti d-flex flex-column align-items-center text-center mt-5">
             <img
               src="/sole.png"
-              alt="Symbole du soleil de Marilina Taiko"
+              alt="Symbole du soleil de Taiko Montpellier"
               className="img-fluid sole mb-3"
             />
 
             <small>
-              © {new Date().getFullYear()} Marilina Taiko — Tous droits
+              © {new Date().getFullYear()} Taiko Montpellier — Tous droits
               réservés.
             </small>
 
